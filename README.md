@@ -1,4 +1,4 @@
-# 🧾 Python Analysis Simplest Template — 自動批改版
+# 🧾 1023 GitHub 練習 -- Simplest Template — 自動批改版
 
 這是一個簡單的 Python 專案，用來：
 - 讓學生練習 `input()` 輸入
